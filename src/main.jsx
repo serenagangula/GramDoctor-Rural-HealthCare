@@ -34,7 +34,7 @@ function App(){
 
   return <div className="app">
     <header className="topbar">
-      <div className="brand" onClick={()=>setScreen("home")}><div className="logo"><HeartPulse size={23}/></div><div><b>GramDoc</b><small>Rural Health Connect</small></div></div>
+      <div className="brand" onClick={()=>setScreen("home")}><div className="logo"><HeartPulse size={23}/></div><div><b>GramDoctor-Rural-HealthCare</b><small>Rural Health Connect</small></div></div>
       <div className="header-actions"><button className="icon-btn" onClick={()=>notify("No new notifications")}><Bell/></button><button className="avatar" onClick={()=>setScreen("profile")}>R</button></div>
     </header>
 

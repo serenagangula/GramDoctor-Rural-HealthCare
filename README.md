@@ -1,4 +1,4 @@
-# GramDoc — Rural Healthcare Prototype
+# GramDoctor-Rural-HealthCare — Rural Healthcare Prototype
 
 A frontend hackathon prototype for the Government of Maharashtra HealthTech problem:
 accessibility and quality of public healthcare services in rural/underserved areas.
